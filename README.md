@@ -1,2 +1,3 @@
-# FinalProjectLabHCI
-Ini project HCI saya yang dibuat bersama teman sekelompok saya, tujuannya untuk bisa lulus HCI Lab yang mewajibkan kami membuat 5 page, panutanku adalah Irzki Muzak dan Hady Gustianto.  HEHEHEHHE UWU
+# JENSHIN
+JENSHIN is a static-website for my "Human Computer Interaction" project at BINUS University.
+This website is visible at https://keyforedu.github.io/JENSHIN
