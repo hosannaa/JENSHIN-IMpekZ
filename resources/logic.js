@@ -24,7 +24,7 @@ regbutton.addEventListener('click', (event)=>{
 
     const emails = email.value
     if(!emails.includes("@gmail.com")){
-        errorText += "E-mail must contain @gmail.com <br>"
+        errorText += "Email must contain @gmail.com <br>"
     }
     
     const ages = age.value
